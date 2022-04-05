@@ -1,0 +1,76 @@
+.purple-color{
+	color:rgb(116,150,0);
+}
+
+body{
+	font-family:verdana;
+	color:#800080;
+	line-height:25px;
+	
+
+}
+
+.half-width{
+	width:50%;
+	float:left;
+}
+
+.side-image{ 
+	width:50%;
+	padding-left:15%;
+}
+
+.primary-btn{
+	color:yellow;
+	background-color: #4B0082;
+	padding: 13px 42px 13px 42px;
+	border-radius:20px;
+	text-decoration: none;
+}
+.hero {
+	background-image:url("file:///C:/Users/Hp/Desktop/pic/orchard.png");
+	background-repeat:no repeat;
+	background-size:cover;
+	
+}
+
+.center {
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.right{
+	margin-right:-100px;
+}
+
+.left{
+	margin-left:50px;
+}
+.navbar-default .navbar-nav > li > a {
+    color: #4e4e4e;
+}
+#grad{
+	background-image:linear-
+	gradient(to bottom right,red,
+	yellow;
+}
+.fd{
+	border:2px solid rent;
+	border-collapse;
+}
+id{
+	padding:20px;
+	padding-top:10px;
+	padding_bottom:10px;
+	padding-left:10px;
+	padding-right:10px;
+	border-spacing:
+	border-color:
+}
+td.hover{
+	background_color:red;
+}
+li {
+	list-style-type: square;
+}
